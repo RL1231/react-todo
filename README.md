@@ -12,4 +12,4 @@ A simple todos app built with TypeScript and React.
 For styling the UI I used RadixUI React components and Tailwind CSS utility
 
 ## State Management
-For simple state management I used Zustand to keep track of all todos, tagging, and features.
+For simple state management I used Zustand to keep track of all todos, tags, and features.
